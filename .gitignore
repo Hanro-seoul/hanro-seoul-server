@@ -40,3 +40,5 @@ out/
 .local/
 .claude/
 /CLAUDE.md
+.env
+.env.local
