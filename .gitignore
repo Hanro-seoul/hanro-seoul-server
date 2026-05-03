@@ -39,3 +39,4 @@ out/
 ### Local ###
 .local/
 .claude/
+/CLAUDE.md
